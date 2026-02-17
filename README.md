@@ -5,11 +5,11 @@
 ---
 
 # 👨‍💻 About Me
-- [cite_start]🎓 B.Tech in **Information Technology** at **IIIT Una** (Nov 2022 – Present) [cite: 5, 6, 12]
-- [cite_start]💼 Interned at **Infrawave Solutions** (Data Analyst) and **RKH Media** (Business Dev) [cite: 18, 19, 28, 29]
-- [cite_start]🛠️ Building projects in **Data Visualization, Predictive Analytics, and Machine Learning** [cite: 14, 37]
-- [cite_start]📊 Hands-on experience with **Python, SQL, Tableau, Power BI, and A/B Testing** [cite: 9, 13, 15]
-- [cite_start]🎯 Passionate about **extracting insights from large datasets to drive business decisions** [cite: 26]
+- 🎓 B.Tech in **Information Technology** at **IIIT Una** (Nov 2022 – Present)
+- 💼 Interned at **Infrawave Solutions** (Data Analyst) and **RKH Media** (Business Dev)
+- 🛠️ Building projects in **Data Visualization, Predictive Analytics, and Machine Learning**
+- 📊 Hands-on experience with **Python, SQL, Tableau, Power BI, and A/B Testing**
+- 🎯 Passionate about **extracting insights from large datasets to drive business decisions**
 
 ---
 
@@ -33,52 +33,52 @@
 # 🚀 Featured Projects
 
 🔹 **Customer Churn Prediction Model**
-*Python | Scikit-learn | NumPy | Pandas | [cite_start]Jupyter Notebook* [cite: 37, 38]
-> Analyzed customer behavior patterns to identify churn drivers and high-risk segments. [cite: 39]
-> Performed end-to-end data preprocessing, feature engineering, and normalization. [cite: 40]
-> Developed statistical summaries and visualizations to communicate insights to stakeholders. [cite: 41]
+*Python | Scikit-learn | NumPy | Pandas | Jupyter Notebook*
+> Analyzed customer behavior patterns to identify churn drivers and high-risk segments.
+> Performed end-to-end data preprocessing, feature engineering, and normalization.
+> Developed statistical summaries and visualizations to communicate insights to stakeholders.
 
 ---
 
 🔹 **COVID-19 Data Analysis & Visualization**
-*Python | Pandas | Plotly | Tableau | [cite_start]APIs* [cite: 42, 43]
-> [cite_start]Analyzed global COVID-19 data, processing daily updates from multiple APIs across 200+ countries. [cite: 44]
-> [cite_start]Created interactive dashboards in Tableau to track infection rates and recovery patterns. [cite: 44]
-> [cite_start]Applied time series analysis to forecast trends and identify correlations between variables. [cite: 45]
+*Python | Pandas | Plotly | Tableau | APIs*
+> Analyzed global COVID-19 data, processing daily updates from multiple APIs across 200+ countries.
+> Created interactive dashboards in Tableau to track infection rates and recovery patterns.
+> Applied time series analysis to forecast trends and identify correlations between variables.
 
 ---
 
 # 🧪 Experience
 
 ### 📊 Infrawave Solutions — Data Analyst Intern
-[cite_start]*Nov 2025 – Dec 2025* [cite: 18, 19, 21]
-- [cite_start]**Data Pipeline:** Collected, cleaned, and validated large datasets from multiple sources. [cite: 23]
-- [cite_start]**Visualization:** Built interactive dashboards using Excel, Power BI, and Tableau to track KPIs. [cite: 24]
-- [cite_start]**Analysis:** Wrote complex SQL queries and performed EDA to identify trends and anomalies. [cite: 25, 26]
-- [cite_start]**Automation:** Automated recurring reports, reducing manual reporting time. [cite: 27]
+*Nov 2025 – Dec 2025*
+- **Data Pipeline:** Collected, cleaned, and validated large datasets from multiple sources.
+- **Visualization:** Built interactive dashboards using Excel, Power BI, and Tableau to track KPIs.
+- **Analysis:** Wrote complex SQL queries and performed EDA to identify trends and anomalies.
+- **Automation:** Automated recurring reports, reducing manual reporting time.
 
 ---
 
 ### 📈 RKH Media — Business Development Analyst Intern
-[cite_start]*Aug 2025 – Nov 2025* [cite: 28, 29, 30]
-- [cite_start]**Strategy:** Built strategic relationships with editors and publishing partners. [cite: 31]
-- [cite_start]**Operations:** Managed contact databases and served as the primary link between internal teams and external writers. [cite: 32, 34]
-- [cite_start]**Growth:** Coordinated outreach efforts to secure content placements and partnership opportunities. [cite: 33]
+*Aug 2025 – Nov 2025*
+- **Strategy:** Built strategic relationships with editors and publishing partners.
+- **Operations:** Managed contact databases and served as the primary link between internal teams and external writers.
+- **Growth:** Coordinated outreach efforts to secure content placements and partnership opportunities.
 
 ---
 
 # 🏅 Highlights
 
-- [cite_start]🎓 **B.Tech IT** at IIIT Una (Nov 2022 – Present) [cite: 5, 6, 12]
-- [cite_start]💻 **Languages:** Python, SQL, C, C++ [cite: 9]
-- [cite_start]🛠️ **Tools:** Mixpanel, Excel, Tableau, Power BI, VS Code, Google Colab [cite: 13]
+- 🎓 **B.Tech IT** at IIIT Una (Nov 2022 – Present)
+- 💻 **Languages:** Python, SQL, C, C++
+- 🛠️ **Tools:** Mixpanel, Excel, Tableau, Power BI, VS Code, Google Colab
 
 ---
 
 # 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ashu22314&theme=tokyonight" height="180"/>
 </p>
 
 ---
@@ -86,8 +86,8 @@
 # 📫 Connect with Me
 
 <p align="center">
-  [cite_start]<a href="mailto:ashujee4692@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a> [cite: 3]
-  [cite_start]<a href="https://www.linkedin.com/in/ashutosh-kumar-pathak-7a7468295/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> [cite: 3]
+  <a href="mailto:ashujee4692@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/ashutosh-kumar-pathak-7a7468295/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
 ---
