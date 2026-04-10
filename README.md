@@ -51,7 +51,7 @@
 # 🧪 Experience
 
 ### 📊 Infrawave Solutions — Data Analyst Intern
-*Nov 2025 – Dec 2025*
+*Nov 2025 – Jan 2026*
 - **Data Pipeline:** Collected, cleaned, and validated large datasets from multiple sources.
 - **Visualization:** Built interactive dashboards using Excel, Power BI, and Tableau to track KPIs.
 - **Analysis:** Wrote complex SQL queries and performed EDA to identify trends and anomalies.
@@ -59,13 +59,7 @@
 
 ---
 
-### 📈 RKH Media — Business Development Analyst Intern
-*Aug 2025 – Nov 2025*
-- **Strategy:** Built strategic relationships with editors and publishing partners.
-- **Operations:** Managed contact databases and served as the primary link between internal teams and external writers.
-- **Growth:** Coordinated outreach efforts to secure content placements and partnership opportunities.
 
----
 
 # 🏅 Highlights
 
